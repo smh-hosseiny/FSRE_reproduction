@@ -45,7 +45,7 @@ You can download the model trained on kitti_raw_sync for 25 epochs:
 
 ## Results
 
-Our model achieves the following performance on :
+Our model achieves the following performance on KITTI eigen split:
 
 |                          |  RMS   |  RMSlog  |
 |   :-----------------     | :----- |  :-----  |
