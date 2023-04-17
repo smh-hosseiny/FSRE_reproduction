@@ -52,7 +52,7 @@ Our model achieves the following performance on KITTI eigen split:
 |  Original paper results  |  4.547 |  0.182   |
 |       Our results        |  4.536 |  0.183   |
 
+Examples of estimated depth maps are presented in this demonstration.
 
-
-![Example Image](fig/5_5.png)
+![Example Image](fig/results.png)
 
