@@ -3,7 +3,7 @@
 
 This repository is the official implementation of Fine-grained Semantics-aware Representation Enhancement (https://arxiv.org/pdf/2108.08829.pdf). 
 
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+![Example Image](fig/5_2.png)
 
 ## Requirements
 
@@ -47,5 +47,5 @@ You can download the model trained on kitti_raw_sync for 25 epochs:
 
 Our model achieves the following performance on :
 
-
+![Example Image](fig/5_5.png)
 
