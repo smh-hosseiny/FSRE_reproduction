@@ -47,5 +47,12 @@ You can download the model trained on kitti_raw_sync for 25 epochs:
 
 Our model achieves the following performance on :
 
+|                          |  RMS   |  RMSlog  |
+|   :-----------------     | :----- |  :-----  |
+|  Original paper results  |  4.547 |  0.182   |
+|       Our results        |  4.536 |  0.183   |
+
+
+
 ![Example Image](fig/5_5.png)
 
