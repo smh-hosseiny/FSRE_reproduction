@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Training
 
-📋 To train the model(s) in the paper, run this command:
+📋 To train the models in the paper, run this command:
 
 ```train
 VISIBLE_DEVICES=0 python -m  train_ddp --data_path /Datasets/monodepth_benchmark/kitti_raw_sync/
@@ -26,7 +26,7 @@ VISIBLE_DEVICES=0 python -m  train_ddp --data_path /Datasets/monodepth_benchmark
 
 ## Evaluation
 
-📋 To evaluate my model on ImageNet, run:
+📋 To evaluate my model on Kitti eigen split, run:
 
 ```eval
 python export_gt_depth.py --data_path /Datasets/monodepth_benchmark/kitti_raw_sync/  --split eigen
