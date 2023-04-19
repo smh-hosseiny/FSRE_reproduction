@@ -19,7 +19,7 @@ pip install -r requirements.txt
 📋 To train the models in the paper, run this command:
 
 ```train
-VISIBLE_DEVICES=0 python -m  train_ddp --data_path /Datasets/monodepth_benchmark/kitti_raw_sync/
+VISIBLE_DEVICES=0 python -m  trainer --data_path /Datasets/monodepth_benchmark/kitti_raw_sync/
 
 ```
 
