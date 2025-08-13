@@ -1,7 +1,7 @@
 # FSRE reproduction
 
 
-This repository contains a reproduced and improved implementation of Fine-grained Semantics-aware Representation Enhancement (paper), adapted for enhanced performance on dense prediction tasks.
+This repository contains a reproduced and improved implementation of Fine-grained Semantics-aware Representation Enhancement [(paper)](https://arxiv.org/pdf/2108.08829.pdf), adapted for enhanced performance on dense prediction tasks.
 
 ![Example Image](fig/5_2.png)
 
